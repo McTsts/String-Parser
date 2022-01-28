@@ -1,4 +1,7 @@
-# String-Parser
+# String-Parser (Deprecated)
+Improved versions of the features of this fork are now contained in the original suso string parser. Do not use this string parser anymore. Instead use [Suso's general string parser](https://github.com/5uso/String-Parser).
+
+# Original
 This is a slight variant of [Suso's string parser](https://github.com/5uso/String-Parser) that is slower but can parse `"`, ` ` (space) and `!`.
 
 ## How to use
